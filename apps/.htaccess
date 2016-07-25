@@ -1,0 +1,7 @@
+#Deny from all
+#ErrorDocument 403 "Forbidden"
+
+#<Files ~"^index\.php|css|html|js|.*\.png\.*\.jpg\.*\.gif">
+
+#	Allow from all
+#</Files>
